@@ -32,7 +32,7 @@ If you find our paper and code useful, please cite our paper as follows:
   title={PerFedMask: {Personalized} Federated Learning with Optimized Masking Vectors},
   author={Setayesh, Mehdi and Li, Xiaoxiao and W.S. Wong, Vincent},
   booktitle={Proc. of International Conference on Learning Representations (ICLR)},
-  address={Kigali Rwanda},
+  address={Kigali, Rwanda},
   month={May},
   year={2023}
 }
