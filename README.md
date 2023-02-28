@@ -1,6 +1,6 @@
 # PerFedMask: Personalized Federated Learning with Optimized Masking Vectors
 
-This is the official Pytorch implementation of our paper [PerFedMask: Personalized Federated Learning with Optimized Masking Vectors](https://openreview.net/pdf?id=hxEIgUXLFF) paper accepted in ICLR 2023.
+This is the official Pytorch implementation of our paper [PerFedMask: Personalized Federated Learning with Optimized Masking Vectors](https://openreview.net/pdf?id=hxEIgUXLFF) accepted in ICLR 2023.
 
 ## Installation
 
